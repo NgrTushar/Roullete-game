@@ -11,8 +11,8 @@
 ## 📝 Code Reference
 
 All smart contract code remains available in this repository:
-- `/contracts/` - Contains all Solidity smart contracts
-- `/scripts/` - Deployment and interaction scripts
+- `/src/` - Contains all Solidity smart contracts
+- `/script/` - Deployment and interaction scripts
 - `/test/` - Test files for contract functionality
 
 ## 🔧 How to Use
